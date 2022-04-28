@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Icons{
+    margin: 0 auto;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 40px;
+}
+.bi-facebook{
+    color: blue;
+}
+.bi-twitter{
+    color: aqua;
+}
+.bi-linkedin{
+    color:lightseagreen
+}
+.bi-person-circle{
+    color: darkblue;
+}
